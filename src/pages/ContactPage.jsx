@@ -7,18 +7,18 @@ const ContactPage = () => {
       <h2>General Enquiries</h2>
       <p>
         <strong>Vivekanand College Main Campus</strong><br />
-        [Mahatma Gandhi Road, Chembur, Mumbai, Maharashtra 400071]<br />
+        [Tarabai park,Kolhapur, Maharashtra 416003]<br />
         India
       </p>
       <p>
-        Phone: <b>+91 12345 67890</b><br />
+        Phone: <b>+91 98989 67890</b><br />
         Email: <b>info@vivekanandcollege.edu</b><br />
         Office Hours: Monday - Friday, 9:00 AM - 5:00 PM IST
       </p>
       <h2>Admissions Office</h2>
       <p>
         For all admission-related queries regarding undergraduate or postgraduate programs:<br />
-        Phone: +91 98765 43210<br />
+        Phone: +91 98765 1234<br />
         Email: admissions@vivekanandcollege.edu
       </p>
       <h2>Student Support Services</h2>
